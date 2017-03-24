@@ -5,6 +5,16 @@ public class ResInput
 	private String name;
 	
 	private String desc;
+	
+	public ResInput()
+	{
+		
+	}
+	
+	public ResInput(String name)
+	{
+		this.name = name;
+	}
 
 	public String getName() {
 		return name;
