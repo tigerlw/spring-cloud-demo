@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ucloudlink.utils.SerializeTool;
+import com.camp.utils.SerializeTool;
 
 import io.swagger.models.Swagger;
 import springfox.documentation.service.Documentation;
